@@ -1,3 +1,4 @@
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ### Hi there 👋
 Python Developer/Data Scientist from Moscow, Russia. Currently working at [URSiP](https://www.ursip.ru). I have a degree in computational linguistics.<br>
 💼 CV ([in English](https://drive.google.com/file/d/1xcQclf3LhHONAxUk9ppwO0Dm8gJCnm_a/view?usp=sharing), [in Russian](https://hh.ru/resume/fdc62301ff09d28f750039ed1f3045344f6c78))
