@@ -1,6 +1,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ### Hi there 👋
-Python Developer/Data Scientist from Moscow, Russia. Currently working at [URSiP](https://www.ursip.ru). I have a degree in computational linguistics.<br>
+Python Developer/Data Scientist.
 💼 CV ([in English](https://drive.google.com/file/d/1xcQclf3LhHONAxUk9ppwO0Dm8gJCnm_a/view?usp=sharing), [in Russian](https://hh.ru/resume/fdc62301ff09d28f750039ed1f3045344f6c78))
 ### 🛠 Some fancy badges
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
