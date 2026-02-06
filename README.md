@@ -1,7 +1,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ### Hi there 👋
-Python Developer/Data Scientist.
-💼 CV [in Russian](https://hh.ru/resume/fdc62301ff09d28f750039ed1f3045344f6c78)) ([in English](https://drive.google.com/file/d/1xcQclf3LhHONAxUk9ppwO0Dm8gJCnm_a/view?usp=sharing)
+Python Developer/Data Scientist
+💼 CV [in Russian](https://spb.hh.ru/resume/702711adff0f4b11560039ed1f6f7a38764976)) ([in English](https://drive.google.com/file/d/1xcQclf3LhHONAxUk9ppwO0Dm8gJCnm_a/view?usp=sharing))
 ### 🛠 Some fancy badges
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![image](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white) ![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ### 🤝 Contact me
